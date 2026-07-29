@@ -14,7 +14,7 @@ Connect: [linkedin.com/in/janani-k14](https://www.linkedin.com/in/janani-k14)
 - Built interactive Power BI dashboard with KPIs and slicers
 
 ### Customer Churn Analysis (In Progress)
-- Tools: Excel, SQL, Power BI
+- Tools: SQL,Python, Power BI
 - Investigating churn patterns and key factors affecting customer retention
 
 
