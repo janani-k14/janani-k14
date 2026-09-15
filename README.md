@@ -55,6 +55,6 @@ Jyoti Nivas College Autonomous | 2022–2025
 
 Oracle Cloud Infrastructure 2025 Certified Data Science Professional
 
-## 📫 Connect
+## Connect
 
-LinkedIn: ...
+LinkedIn: https://www.linkedin.com/in/janani-k14/
